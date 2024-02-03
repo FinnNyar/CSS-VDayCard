@@ -1,0 +1,18 @@
+html {
+  background-color: black;
+  color: lightgreen;
+}
+img {
+  border: 5px solid lightgreen;
+}
+div {
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+  margin-top: 10%;
+}
+h1 {
+  text-transform: uppercase;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Rubik Bubbles", system-ui;
+}
